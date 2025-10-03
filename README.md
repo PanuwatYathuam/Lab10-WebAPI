@@ -1,5 +1,6 @@
 1. ดูข้อมูลทั้งหมด (Read All & Filter/Search) ดึงข้อมูลกันพลาทั้งหมด (GET Collection)
-   GET http://localhost/gunpla_api/public/api/gunplas
+
+GET http://localhost/gunpla_api/public/api/gunplas
 <img width="891" height="874" alt="image" src="https://github.com/user-attachments/assets/4f12d9db-89eb-46cf-9c50-b4e6dfb08dfd" />
 4. ดูข้อมูลเฉพาะรายการ (Read One) ดึงข้อมูลกันพลา ID ที่ 3
 GET http://localhost/gunpla_api/public/api/gunplas/3
